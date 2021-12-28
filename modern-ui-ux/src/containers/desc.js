@@ -1,0 +1,1 @@
+/* components are smaller in size. containers are bigger. and more prominent sections of a page. */
